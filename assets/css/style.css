@@ -2237,12 +2237,19 @@ label {
     top: -8px;
 }
 
-.card-grid-1 {
+.what_we_do_card 
+{
+    margin-bottom: 20px;
+} 
+
+.card-grid-1 
+{
     padding: 53px 48px;
     display: inline-block;
     width: 100%;
     border-radius: 16px;
-    margin-bottom: 20px;
+    background-color: red;
+    height: 100%;
 }
 
 @media(max-width: 575px)
